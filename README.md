@@ -18,10 +18,12 @@ $ pip install rich
 #
 $ pkg install git
 #
-$ rm -rf ox_enc
+$ rm -rf FOX-M
 #
 $ git clone https://github.com/R1F4T-2-0/FOX-CLONING
 #
 $ cd FOX-CLONING
 #
-$ python ox_enc.py
+$ python FOX-M.py
+
+[![Screenshot-20230318-175147.jpg](https://i.postimg.cc/fyQqjCLt/Screenshot-20230318-175147.jpg)](https://postimg.cc/CBJ4wjbS)
